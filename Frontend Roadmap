@@ -1,0 +1,56 @@
+📘 1. JavaScript Fundamentals (4–6 weeks)
+🔑 Key Concepts
+Variables (let, const)
+
+Data types, Type Coercion
+
+Operators, Conditionals (if, switch)
+
+Loops (for, while)
+
+Functions and Scope
+
+Arrays, Objects
+
+DOM Manipulation
+
+Events & Event Listeners
+
+HTML/CSS integration basics
+
+
+🧰 Tools
+Code Editor: VS Code
+
+Browser DevTools (Chrome, Firefox)
+
+Console for debugging (console.log, typeof, etc.)
+
+
+💡 Projects
+To-Do List (manipulate DOM)
+
+Calculator
+
+Interactive quiz
+
+Simple portfolio site (HTML/CSS + JS)
+
+📚 Recommended Resources
+Free
+
+MDN JavaScript Guide
+
+freeCodeCamp JavaScript
+
+JavaScript.info
+
+
+⚠️ Common Pitfalls
+Using var instead of let/const
+
+Not separating concerns (HTML/JS tangled)
+
+Ignoring semantic HTML
+
+Overusing global variables
